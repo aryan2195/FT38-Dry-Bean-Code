@@ -1,1 +1,2 @@
-After the code blocks are run, the output and plots are stored under the "output" tab inside "Files" tab on the left sidebar of google colab.
+After running all code cells, generated outputs (plots, reports, and result summaries) are saved in the output/ directory.
+When executed in Google Colab, this directory appears under the Files tab in the left sidebar.
